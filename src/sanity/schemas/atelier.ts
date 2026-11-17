@@ -17,7 +17,7 @@ export default defineType({
     }),
     defineField({
       name: "telephone",
-      title: "Telephone",
+      title: "Téléphone",
       type: "string",
     }),
     defineField({
@@ -32,7 +32,7 @@ export default defineType({
     }),
     defineField({
       name: "citation",
-      title: "Citation du maitre artisan",
+      title: "Citation du maître artisan",
       type: "text",
     }),
     defineField({

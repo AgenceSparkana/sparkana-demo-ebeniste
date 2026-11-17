@@ -20,11 +20,11 @@ export default function Galerie() {
               Galerie
             </p>
             <h2 className="font-serif italic text-3xl md:text-5xl text-on-surface">
-              Nos Realisations
+              Nos Réalisations
             </h2>
           </div>
           <p className="hidden md:block font-serif italic text-tertiary max-w-xs text-right">
-            Chaque piece raconte une histoire de patience et de precision.
+            Chaque pièce raconte une histoire de patience et de précision.
           </p>
         </div>
 
@@ -54,13 +54,13 @@ export default function Galerie() {
               <div className="relative aspect-square overflow-hidden group">
                 <Image
                   src="/images/bibliotheque-chene.png"
-                  alt="Bibliotheque en chene fume"
+                  alt="Bibliothèque en chêne fumé"
                   fill
                   className="object-cover grayscale-hover"
                 />
                 <div className="absolute bottom-4 left-4 bg-surface/80 backdrop-blur px-4 py-2">
                   <span className="text-primary text-[10px] tracking-widest uppercase font-sans font-bold">
-                    Chene Fume / Uzes
+                    Chêne Fumé / Uzès
                   </span>
                 </div>
               </div>

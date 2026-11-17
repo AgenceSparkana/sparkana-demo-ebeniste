@@ -11,19 +11,19 @@ const essences = [
     description: "Sombre, noble et onctueux.",
     couleur: "#5C3317",
     image: "/images/bois-noyer.png",
-    caracteristiques: ["Tres dur", "Grain fin", "Teinte foncee"],
+    caracteristiques: ["Très dur", "Grain fin", "Teinte foncée"],
   },
   {
     id: "chene",
-    nom: "Chene",
-    description: "La force et le caractere eternel.",
+    nom: "Chêne",
+    description: "La force et le caractère éternel.",
     couleur: "#8B6914",
     image: "/images/bois-chene.png",
-    caracteristiques: ["Robuste", "Grain prononce", "Teinte doree"],
+    caracteristiques: ["Robuste", "Grain prononcé", "Teinte dorée"],
   },
   {
     id: "frene",
-    nom: "Frene",
+    nom: "Frêne",
     description: "Souple, clair et contemporain.",
     couleur: "#C4A882",
     image: "/images/bois-frene.png",
@@ -32,32 +32,32 @@ const essences = [
   {
     id: "olivier",
     nom: "Olivier",
-    description: "L'ame mediterraneenne tourmentee.",
+    description: "L'âme méditerranéenne tourmentée.",
     couleur: "#8B7355",
     image: "/images/bois-olivier.png",
-    caracteristiques: ["Rare", "Grain onde", "Teinte chaude"],
+    caracteristiques: ["Rare", "Grain ondé", "Teinte chaude"],
   },
   {
     id: "merisier",
     nom: "Merisier",
-    description: "Chaleur rosee, grain soyeux.",
+    description: "Chaleur rosée, grain soyeux.",
     couleur: "#A0522D",
     image: "/images/bois-merisier.png",
-    caracteristiques: ["Delicat", "Grain soyeux", "Teinte rosee"],
+    caracteristiques: ["Délicat", "Grain soyeux", "Teinte rosée"],
   },
   {
     id: "noyer-americain",
-    nom: "Noyer Americain",
-    description: "Veine, expressif, audacieux.",
+    nom: "Noyer Américain",
+    description: "Veiné, expressif, audacieux.",
     couleur: "#4A3728",
     image: "/images/bois-noyer-americain.png",
-    caracteristiques: ["Tres dur", "Grain expressif", "Teinte profonde"],
+    caracteristiques: ["Très dur", "Grain expressif", "Teinte profonde"],
   },
 ];
 
 const meubles = [
-  { id: "table", nom: "Table de salle a manger" },
-  { id: "bibliotheque", nom: "Bibliotheque" },
+  { id: "table", nom: "Table de salle à manger" },
+  { id: "bibliotheque", nom: "Bibliothèque" },
   { id: "armoire", nom: "Armoire sur mesure" },
   { id: "cuisine", nom: "Cuisine d'art" },
   { id: "bureau", nom: "Bureau" },
@@ -77,7 +77,7 @@ export default function ConfigurateurBois() {
             Configurateur
           </p>
           <h2 className="text-4xl md:text-5xl font-serif italic text-on-surface">
-            Imaginez votre piece
+            Imaginez votre pièce
           </h2>
         </div>
 

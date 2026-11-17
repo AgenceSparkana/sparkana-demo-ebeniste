@@ -13,7 +13,7 @@ export default function MaitreArtisan() {
           {/* Texte */}
           <div className="fade-in">
             <p className="text-primary text-xs tracking-[0.4em] uppercase mb-4">
-              L&apos;Heritage
+              L&apos;Héritage
             </p>
             <h2 className="font-serif italic text-3xl md:text-4xl lg:text-5xl text-on-surface mb-8 leading-tight">
               Le geste juste,
@@ -23,16 +23,16 @@ export default function MaitreArtisan() {
 
             <div className="space-y-6 mb-10">
               <p className="font-sans text-tertiary text-lg leading-relaxed">
-                Depuis 1948, trois generations de Marchand faconnent le bois
-                dans leur atelier d&apos;Uzes. Un savoir-faire transmis de pere
-                en fils, ou chaque geste porte l&apos;empreinte de decennies
-                d&apos;experience.
+                Depuis 1948, trois générations de Marchand façonnent le bois
+                dans leur atelier d&apos;Uzès. Un savoir-faire transmis de père
+                en fils, où chaque geste porte l&apos;empreinte de décennies
+                d&apos;expérience.
               </p>
               <p className="font-sans text-tertiary text-lg leading-relaxed">
-                Jean-Baptiste Marchand, maitre ebeniste, perpetue cet heritage
-                avec la meme exigence que ses aines : celle du bois choisi a la
-                main, du tenon ajuste au dixieme, de la finition a l&apos;huile
-                de lin appliquee en sept couches.
+                Jean-Baptiste Marchand, maître ébéniste, perpétue cet héritage
+                avec la même exigence que ses aînés : celle du bois choisi à la
+                main, du tenon ajusté au dixième, de la finition à l&apos;huile
+                de lin appliquée en sept couches.
               </p>
             </div>
 
@@ -42,7 +42,7 @@ export default function MaitreArtisan() {
                 sa forme finale. &raquo;
               </p>
               <cite className="font-sans text-tertiary text-sm not-italic">
-                &mdash; Jean-Baptiste Marchand
+                Jean-Baptiste Marchand
               </cite>
             </blockquote>
           </div>
@@ -53,7 +53,7 @@ export default function MaitreArtisan() {
             <div className="relative aspect-[3/4] overflow-hidden">
               <Image
                 src="/images/portrait-artisan.png"
-                alt="Jean-Baptiste Marchand, maitre ebeniste"
+                alt="Jean-Baptiste Marchand, maître ébéniste"
                 fill
                 className="object-cover grayscale brightness-75"
               />

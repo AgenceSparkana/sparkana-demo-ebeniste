@@ -9,8 +9,8 @@ export default function Footer() {
               Atelier Marchand
             </p>
             <p className="font-sans text-tertiary text-sm leading-relaxed max-w-sm">
-              Ebeniste menuisier de 3eme generation. Meubles sur mesure,
-              restauration et agencement interieur a Uzes, dans le Gard.
+              Ébéniste menuisier de 3e génération. Meubles sur mesure,
+              restauration et agencement intérieur à Uzès, dans le Gard.
             </p>
           </div>
 
@@ -61,10 +61,10 @@ export default function Footer() {
         {/* Copyright */}
         <div className="mt-16 pt-8 border-t border-outline-variant/20 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="font-sans text-outline text-xs">
-            &copy; 2025 Atelier Marchand &middot; Uzes, Gard
+            &copy; 2025 Atelier Marchand &middot; Uzès, Gard
           </p>
           <p className="font-sans text-outline text-xs">
-            Site realise par{" "}
+            Site réalisé par{" "}
             <a
               href="https://sparkana.fr"
               target="_blank"

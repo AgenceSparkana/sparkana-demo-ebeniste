@@ -2,7 +2,7 @@ import { defineType, defineField } from "sanity";
 
 export default defineType({
   name: "realisation",
-  title: "Realisation",
+  title: "Réalisation",
   type: "document",
   fields: [
     defineField({
@@ -12,12 +12,12 @@ export default defineType({
     }),
     defineField({
       name: "materiau",
-      title: "Materiau",
+      title: "Matériau",
       type: "string",
     }),
     defineField({
       name: "annee",
-      title: "Annee",
+      title: "Année",
       type: "number",
     }),
     defineField({

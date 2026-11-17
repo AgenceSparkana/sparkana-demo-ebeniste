@@ -9,21 +9,21 @@ const specialites = [
     title: "Meubles sur mesure",
     image: "/images/meubles-mesure.png",
     description:
-      "Des pieces uniques concues pour habiter votre espace avec une elegance intemporelle et une fonctionnalite precise.",
+      "Des pièces uniques conçues pour habiter votre espace avec une élégance intemporelle et une fonctionnalité précise.",
   },
   {
     num: "02",
     title: "Restauration",
     image: "/images/restauration.png",
     description:
-      "Redonner vie aux tresors du passe en respectant l'ame de l'objet et les techniques d'ebenisterie d'epoque.",
+      "Redonner vie aux trésors du passé en respectant l'âme de l'objet et les techniques d'ébénisterie d'époque.",
   },
   {
     num: "03",
-    title: "Agencement interieur",
+    title: "Agencement intérieur",
     image: "/images/agencement.png",
     description:
-      "Bibliotheques monumentales, cuisines d'art et dressings integres : l'architecture interieure sublimee par le bois.",
+      "Bibliothèques monumentales, cuisines d'art et dressings intégrés : l'architecture intérieure sublimée par le bois.",
   },
 ];
 
@@ -38,7 +38,7 @@ export default function SavoirFaire() {
             Savoir-faire
           </p>
           <h2 className="font-serif italic text-3xl md:text-5xl text-on-surface">
-            Trois generations d&apos;excellence
+            Trois générations d&apos;excellence
           </h2>
         </div>
 

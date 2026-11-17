@@ -8,7 +8,7 @@ const infos = [
   {
     icon: MapPin,
     label: "Adresse",
-    value: "14 Rue de la Menuiserie, 30700 Uzes",
+    value: "14 Rue de la Menuiserie, 30700 Uzès",
   },
   {
     icon: Mail,
@@ -17,7 +17,7 @@ const infos = [
   },
   {
     icon: Phone,
-    label: "Tel",
+    label: "Tél.",
     value: "+33 (0)4 66 22 00 00",
   },
 ];
@@ -67,10 +67,10 @@ export default function Contact() {
               L&apos;Atelier
             </p>
             <h2 className="font-serif italic text-3xl md:text-4xl lg:text-5xl text-on-surface mb-6 leading-tight">
-              Visitez-nous a Uzes
+              Visitez-nous à Uzès
             </h2>
             <p className="font-sans text-tertiary text-lg leading-relaxed mb-12">
-              Situe au coeur de la cite ducale, notre atelier est ouvert sur
+              Situé au cœur de la cité ducale, notre atelier est ouvert sur
               rendez-vous pour discuter de vos projets les plus ambitieux.
             </p>
 
@@ -155,7 +155,7 @@ export default function Contact() {
                     }))
                   }
                   className="w-full bg-transparent border-b border-outline-variant text-on-surface font-sans py-3 px-0 focus:outline-none focus:border-primary transition-colors duration-300 placeholder:text-outline resize-none"
-                  placeholder="Decrivez votre projet..."
+                  placeholder="Décrivez votre projet..."
                 />
               </div>
 
@@ -178,7 +178,7 @@ export default function Contact() {
                 <div className="flex items-center gap-3 text-primary">
                   <CheckCircle size={18} />
                   <p className="font-sans text-sm">
-                    Message envoye avec succes. Nous vous recontacterons
+                    Message envoyé avec succès. Nous vous recontacterons
                     rapidement.
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function Contact() {
                 <div className="flex items-center gap-3 text-red-400">
                   <AlertCircle size={18} />
                   <p className="font-sans text-sm">
-                    Une erreur est survenue. Veuillez reessayer.
+                    Une erreur est survenue. Veuillez réessayer.
                   </p>
                 </div>
               )}

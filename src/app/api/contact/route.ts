@@ -43,7 +43,7 @@ export async function POST(request: Request) {
             <p style="white-space: pre-wrap;">${message}</p>
           </div>
           <p style="margin-top: 30px; font-size: 12px; color: #9c8e89;">
-            Ce message a ete envoye depuis le formulaire de contact du site Atelier Marchand.
+            Ce message a été envoyé depuis le formulaire de contact du site Atelier Marchand.
           </p>
         </div>
       `,

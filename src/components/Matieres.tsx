@@ -10,29 +10,29 @@ const bois = [
     description: "Sombre, noble et onctueux.",
   },
   {
-    nom: "Chene",
+    nom: "Chêne",
     image: "/images/bois-chene.png",
-    description: "La force et le caractere eternel.",
+    description: "La force et le caractère éternel.",
   },
   {
-    nom: "Frene",
+    nom: "Frêne",
     image: "/images/bois-frene.png",
     description: "Souple, clair et contemporain.",
   },
   {
     nom: "Olivier",
     image: "/images/bois-olivier.png",
-    description: "L'ame mediterraneenne tourmentee.",
+    description: "L'âme méditerranéenne tourmentée.",
   },
   {
     nom: "Merisier",
     image: "/images/bois-merisier.png",
-    description: "Chaleur rosee, grain soyeux.",
+    description: "Chaleur rosée, grain soyeux.",
   },
   {
-    nom: "Noyer Americain",
+    nom: "Noyer Américain",
     image: "/images/bois-noyer-americain.png",
-    description: "Veine, expressif, audacieux.",
+    description: "Veiné, expressif, audacieux.",
   },
 ];
 
@@ -48,7 +48,7 @@ export default function Matieres() {
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center mb-16 fade-in">
           <p className="text-primary text-xs tracking-[0.4em] uppercase mb-4">
-            Matieres Premieres
+            Matières Premières
           </p>
           <h2 className="font-serif italic text-3xl md:text-5xl text-on-surface">
             L&apos;Essence de l&apos;Excellence

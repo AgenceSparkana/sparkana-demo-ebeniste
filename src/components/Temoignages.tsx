@@ -13,8 +13,8 @@ export default function Temoignages() {
 
         <blockquote className="font-serif italic text-xl sm:text-2xl md:text-3xl lg:text-4xl text-on-surface leading-relaxed mb-10">
           &laquo; Travailler avec l&apos;Atelier Marchand, c&apos;est
-          l&apos;assurance d&apos;une piece qui a un supplement d&apos;ame.
-          Leurs finitions a l&apos;huile de lin sont d&apos;une sensualite
+          l&apos;assurance d&apos;une pièce qui a un supplément d&apos;âme.
+          Leurs finitions à l&apos;huile de lin sont d&apos;une sensualité
           rare. &raquo;
         </blockquote>
 
@@ -25,7 +25,7 @@ export default function Temoignages() {
               Marc-Antoine de Vigny
             </p>
             <p className="font-sans text-tertiary text-sm">
-              Architecte d&apos;interieur, Paris
+              Architecte d&apos;intérieur, Paris
             </p>
           </div>
           <div className="h-px w-12 bg-primary" />
